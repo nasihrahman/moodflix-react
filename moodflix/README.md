@@ -1,14 +1,14 @@
-# React + Vite
+# React 
 
 # Moodflix
 
-Moodflix is a modern movie search app built with React and Vite. Instantly search for movies, view details, and discover new favorites with a beautiful, responsive UI.
+Moodflix is a modern movie search app built with React. Instantly search for movies, view details, and discover new favorites with a beautiful, responsive UI.
 
 ## Features
 - 🔍 Real-time movie search
 - 🎬 Movie details with posters and ratings
 - 🌙 Clean, modern, and responsive design
-- ⚡ Powered by Vite for fast development
+
 
 ## Getting Started
 
@@ -85,14 +85,9 @@ moodflix/
 - Built with [Vite](https://vitejs.dev/) for fast development and hot module replacement.
 - Linting with ESLint and recommended React plugins.
 
-### Project Scripts
-- `npm run dev` — Start development server
-- `npm run build` — Build for production
-- `npm run preview` — Preview production build
-- `npm run lint` — Lint codebase
 
-## License
-This project is licensed under the MIT License.
+
+
 
 ---
-Made with ❤️ using React and Vite.
+
