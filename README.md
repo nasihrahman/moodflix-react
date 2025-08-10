@@ -44,10 +44,10 @@ Open [http://localhost:5173](http://localhost:5173) to view the app in your brow
 ## Screenshots
 
 ### Home Page
-![Moodflix Home Page](./screenshots/1.png)
+![Moodflix Home Page](/moodflix/screenshots/1.png)
 
 ### Movie Details
-![Moodflix Movie Details](./screenshots/2.png)
+![Moodflix Movie Details](/moodflix/screenshots/2.png)
 
 
 ## Project Structure
